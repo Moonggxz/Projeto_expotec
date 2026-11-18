@@ -93,6 +93,7 @@ main h2{
     color: rgb(1, 75, 1);
     padding: 10px;
     border-radius: 10px;
+    text-align: center;
 }
 
 main  p{
