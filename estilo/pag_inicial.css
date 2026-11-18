@@ -43,7 +43,7 @@ header > h1{
     color: rgb(46, 216, 228);
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.466);
     font-size: 6em;
-    padding-bottom: 15px;
+    padding-bottom: 10px;
     font-family: var(--fonte-titulo);
 
 }
@@ -121,7 +121,7 @@ main  p{
   transition: transform 0.5s ease-in-out; 
   padding: 0; 
   margin: 0; 
-  list-style: none; 
+  list-style: none;
 } 
 
 .carrossel-slide { 
