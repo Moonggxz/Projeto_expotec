@@ -92,6 +92,7 @@ main h2{
     background-image: linear-gradient(to right, var(--cor1), transparent);
     color: rgb(1, 75, 1);
     padding: 10px;
+    border-radius: 10px;
 }
 
 main  p{
